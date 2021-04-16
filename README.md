@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**wuduo0701/wuduo0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Wu Duo](https://github.com/wuduo0701), Chinese Name is 朵雾.
+I'm just graduated from university.
 
-Here are some ideas to get you started:
+Here are some of my personal profiles. :ghost:
+- 🔭 I’m currently working on JD
+- 🌱 I’m currently learning Vue3 and TypeScript.
+- 🤔 I want to be a great contributor to the community, even though it is difficult.
+- 😄 I also like playing games and watching fan dramas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to get to know me in the following ways. :sunglasses:
+- :penguin:QQ: 1970186643
+- :computer:website: Website temporarily expired...
+
+![WuDuo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuduo0701)
+
+Feel free to contact me. :yum:
+<br><br>
+[<img src="https://img.shields.io/badge/QQ-1970186643-blue">](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1970186643)
+[<img src="https://img.shields.io/badge/website-expired-brightgreen">]()
+[<img src="https://img.shields.io/badge/Email-1970186643@qq.com-orange">](mailto:1970186643@qq.com)
