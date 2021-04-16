@@ -9,10 +9,6 @@ Here are some of my personal profiles. :ghost:
 - 🤔 I want to be a great contributor to the community, even though it is difficult.
 - 😄 I also like playing games and watching fan dramas.
 
-Welcome to get to know me in the following ways. :sunglasses:
-- :penguin:QQ: 1970186643
-- :computer:website: Website temporarily expired...
-
 ![WuDuo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuduo0701)
 
 Feel free to contact me. :yum:
